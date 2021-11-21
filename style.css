@@ -6,7 +6,7 @@
 }
 
 #pageheader{
-    background-image: url(/assets/image/img1.jpg);
+    background-image: url(img1.jpg);
     padding-top: 200px;
     padding-bottom: 200px;
     background-size: cover;
