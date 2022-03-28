@@ -8,7 +8,7 @@
 }
 
 #pageheader{
-    background-image: url(assets/image/bg.jpg);
+    background-image: url(../assets/image/bg.jpg);
     padding: 200px 0px;
     background-size: cover;
     background-attachment: fixed;
